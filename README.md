@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gitslem/gitslem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I am [Anslem]
+# 👋 Hello, I am Slem
 
 ## 🚀 About Me
-Full Stack Developer | Web3 Enthusiast | AI Engineer  
+Project Manager | AI & Blockchain Engineer | Full Stack Developer 
 
 Passionate about building scalable web apps, experimenting with blockchain, and exploring AI.  
 
