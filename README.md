@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hello, I am [Anslem]
+
+## 🚀 About Me
+Full Stack Developer | Web3 Enthusiast | AI Engineer  
+
+Passionate about building scalable web apps, experimenting with blockchain, and exploring AI.  
+
+- 🌍 I'm from Toronto, Canada  
+- 📫 Reach me at [anslemebiega1@gmail.com](mailto:anslemebiega1@gmail.com)  
+- 🌐 Portfolio: [slem.netlify.app](https://slem.netlify.app)  
+- 🌱 Currently in JavaScript, Solidity, and AI Agents
+- 💬 Ask me about MERN Stack, Blockchain, and AI  
+- ⚡ Fun fact: I love mixing music & code 🎵  
+
+---
+
+## 🛠 Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+
+---
+
+## 🔗 Social
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/gitslem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anslem-e)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/slizyslem)
+
+## Let's Connect
