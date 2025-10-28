@@ -40,6 +40,11 @@ Passionate about building scalable web apps, experimenting with blockchain, and 
 ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-AI%20Agents-blueviolet?logo=github&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Transforming%20Workflows-green?logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
 
 ---
 
