@@ -22,7 +22,7 @@ Passionate about building scalable web apps, experimenting with blockchain, and 
 - 🌍 I'm from Toronto, Canada  
 - 📫 Reach me at [anslemebiega1@gmail.com](mailto:anslemebiega1@gmail.com)  
 - 🌐 Portfolio: [slem.netlify.app](https://slem.netlify.app)  
-- 🌱 Currently in JavaScript, Solidity, and AI Agents
+- 🌱 Currently in JavaScript, Python, Solidity, and AI Agents
 - 💬 Ask me about MERN Stack, Blockchain, and AI  
 - ⚡ Fun fact: I love mixing music & code 🎵  
 
@@ -47,6 +47,5 @@ Passionate about building scalable web apps, experimenting with blockchain, and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/gitslem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anslem-e)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/slizyslem)
 
 ## Let's Connect
