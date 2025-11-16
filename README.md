@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hello, I am Slem
 
 
-Project Manager | AI & Blockchain Engineer | Full Stack Developer 
+Project Manager | AI & Blockchain Engineer | Full Stack Developer | Music Tech
 
 Passionate about building scalable web apps, experimenting with blockchain, and exploring AI.  
 
