@@ -52,4 +52,4 @@ Passionate about building scalable web apps, experimenting with blockchain, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anslem-e)
 
 ## Let's Connect
-Most are not public due to privacy concerns and copyrights agreement. Below I have few repo enjoy!
+few public repo enjoy!
