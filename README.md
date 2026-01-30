@@ -1,32 +1,7 @@
-<!--
-**gitslem/gitslem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello, I am Slem
-
+# 👋
 
 Project Manager | AI & Blockchain Engineer | Full Stack Developer | Music Tech
 
-Passionate about building scalable web apps, experimenting with blockchain, and exploring AI.  
-
-- 🌍 I'm from Toronto, Canada  
-- 📫 Reach me at [anslemebiega1@gmail.com](mailto:anslemebiega1@gmail.com)  
-- 🌐 Portfolio: [hire-anslem.web.app](https://hire-anslem.web.app)  
-- 🌱 Currently in JavaScript, Python, Solidity, and AI Agents
-- 💬 Ask me about MERN Stack, Blockchain, and AI  
-- ⚡ Fun fact: I love mixing music & code 🎵  
-
----
 
 ## 🛠 Skills
 
@@ -41,15 +16,3 @@ Passionate about building scalable web apps, experimenting with blockchain, and 
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-
-
-
----
-
-## 🔗 Social
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/gitslem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anslem-e)
-
-## Let's Connect
-few public repo enjoy!
