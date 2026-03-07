@@ -16,3 +16,6 @@ Project Manager | AI & Blockchain Engineer | Full Stack Developer | Music Tech
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+building the future...
+https://colsphere.com || https://reworkdigital.io || https://wyneworld.com || https://outbreakglobal.com 
