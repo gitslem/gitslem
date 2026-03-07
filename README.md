@@ -18,4 +18,4 @@ Project Manager | AI & Blockchain Engineer | Full Stack Developer | Music Tech
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
 building the future...
-https://colsphere.com || https://reworkdigital.io || https://wyneworld.com || https://outbreakglobal.com 
+https://colsphere.com || https://reworkdigital.io || https://wyneworld.com || https://www.outbreakglobal.com 
