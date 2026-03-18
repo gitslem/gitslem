@@ -1,7 +1,3 @@
-# 👋
-
-Project Manager | AI & Blockchain Engineer | Full Stack Developer | Music Tech
-
 
 ## 🛠 Skills
 
