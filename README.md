@@ -13,4 +13,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-'building the future...'
+'the proof should speak louder than the pitch...see evidence before you see an invoice.'
