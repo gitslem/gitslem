@@ -1,3 +1,7 @@
+📍 Ontario ↔ Canada | 🤖 Proof of Work 
+
+Now at Reworkio, working on agents; and open source projects...
+'the proof should speak louder than their pitch...see evidence before you see an invoice.'
 
 ## 🛠 Skills
 
@@ -13,4 +17,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-'the proof should speak louder than the pitch...see evidence before you see an invoice.'
+🤝 Colz - artists connect & collaborate 
+📊 Traddii - Trade with Precision Not Emotion
+👾 Veedz - Your imagination is your limits
+🆔 Rework-Proof - Evidence over claims
+🎶 Melo - Home of the melodies (coming soon)
